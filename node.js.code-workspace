@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../Courses/1st_Bootcamp_UTP/Proyectos borrador/node.js"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Snake"
+	}
+}
